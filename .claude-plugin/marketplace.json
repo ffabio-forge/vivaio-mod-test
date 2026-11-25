@@ -1,0 +1,5 @@
+{
+  "name": "vivaio-test",
+  "owner": { "name": "Vivaio" },
+  "plugins": [{ "name": "vivaio-test", "source": "./" }]
+}
